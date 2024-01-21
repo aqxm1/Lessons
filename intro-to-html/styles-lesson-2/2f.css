@@ -1,0 +1,37 @@
+.name {
+  color: black;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.price{
+  color: rgb(14, 146, 27);
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.status{
+  color: black;
+  font-size: 16px;
+}
+
+.cart{
+  background-color: rgb(255, 221, 0);
+  color: black;
+  height: 30px;
+  width: 120px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.buy{
+  background-color: orange;
+  color: black;
+  height: 30px;
+  width: 120px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  margin-left: 8px;
+}

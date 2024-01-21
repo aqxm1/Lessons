@@ -1,0 +1,9 @@
+.github-button{
+  background-color: green;
+  color: white;
+  height: 33px;
+  width: 75px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
