@@ -1,0 +1,62 @@
+.first-name-box {
+  color: rgb(0, 0, 0);
+  width: 140px;
+  font-size: 17px;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 13px;
+  border: solid;
+  border-color: rgb(201, 201, 201);
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.last-name-box {
+  color: rgb(0, 0, 0);
+  width: 140px;
+  font-size: 17px;
+  display: inline-block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 13px;
+  padding-right: 0px;
+  border: solid;
+  border-color: rgb(201, 201, 201);
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.email-box {
+  color: rgb(0, 0, 0);
+  width: 299px;
+  margin-top: 10px;
+  font-size: 17px;
+  display: block;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 13px;
+  border: solid;
+  border-color: rgb(201, 201, 201);
+  border-width: 1px;
+  border-radius: 8px;
+}
+
+.sign-button {
+  background-color: rgb(71, 150, 253);
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  padding-right: 121.5px;
+  padding-left: 121.5px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.sign-button:active {
+  background-color: rgb(88, 161, 255);
+}

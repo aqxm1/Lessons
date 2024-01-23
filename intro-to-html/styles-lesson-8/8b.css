@@ -1,0 +1,15 @@
+ .message {
+  font-size: 17px;
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+ }
+
+ .yes-button {
+  vertical-align: middle;
+  margin-right: 8px;
+ }
+
+ .no-button {
+  vertical-align: middle;
+ }
