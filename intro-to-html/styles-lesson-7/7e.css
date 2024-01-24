@@ -1,7 +1,12 @@
+.search-div {
+  width: 700px;
+  display: inline-block;
+  text-align: center;
+}
+
 .searchbox {
+  font-family: Arial;
   width: 300px;
-  margin-left: 50px;
-  margin-top: 15px;
   font-size: 16px;
   padding-top: 12px;
   padding-bottom: 12px;

@@ -1,0 +1,19 @@
+.service-box {
+  border-width: 1px;
+  border-style: solid;
+  border-color: grey;
+  width: 300px;
+  height: 100px;
+  font-family: Arial;
+  font-size: 18px;
+  border-width: 1px;
+}
+
+.buttons {
+  margin-left: 15px;
+}
+
+.text {
+  margin-bottom: 15px;
+  margin-left: 15px;
+}

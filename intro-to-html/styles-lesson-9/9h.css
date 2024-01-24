@@ -1,0 +1,24 @@
+.buttons {
+  width: 700px;
+  display: inline-block;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.google-buttons {
+  background-color: rgba(184, 184, 184, 0.336);
+  color: black;
+  font-size: 15px;
+  border: none;
+  border-radius: 2px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-right: 8px;
+  cursor: pointer;
+}
+
+.google-buttons:active {
+  background-color: rgba(184, 184, 184, 0.507);
+}
